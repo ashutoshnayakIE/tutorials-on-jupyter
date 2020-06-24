@@ -15,3 +15,17 @@ https://github.com/ashutoshnayakIE/ABTesting
 ## Learning Simulation
 This tutorial builds as very simple simulation for infectious disease. The objective is to understand how simulation works, why we simulate complex systems, how can we build simulation models. In the process of building this easy simulation model, we also discuss what are objects/classes for those who are not familiar with this concepts. We also talk a little about about vectorization and how can we use it in general programming practices.
 https://github.com/ashutoshnayakIE/covid-simulation
+
+## MCMC
+Markov Chain Monte Crlo has been recognized as the one of top 10 algorithms of the 20th century. In this tutorial, we through what is MCMC, what is the coreidea and how to implement fidderent MCMC algorithms in python. At the end of the tutorial, you should be able to get the ideao of MCMC and implement it in python. The repository can be found in the link below.<br>
+https://github.com/ashutoshnayakIE/MCMC
+
+## Thompson Sampling
+A tutorial explaining what is Thompson sampling, how it is different from greedy and $\epsilon$-greedy algorithm and how it can be 
+implemented. We also show a small toy example for understanding how Thompson samplling is different from greedy-algorithm. It is python notebook where you can go through the theoretical foundations along with the code.<br>
+https://github.com/ashutoshnayakIE/RL/blob/master/ThompsonSampling.ipynb
+
+## Hyper-parameter Optimization
+Hyper-parameter optimizatio in important when the optimization function is very complex (example complex Machine learning algorithms).
+This is a tutorial on hyper-parameter example with a toy problem using hyperOpt. It explains what are we doing when we say hyper-paramete optimization. We also show an example its implementation in python. After this tutorial, you should be able to implement bayesian optimization procedure along with understanding the theoretical background for it.<br>
+https://github.com/ashutoshnayakIE/hyper_parameter_optimization
