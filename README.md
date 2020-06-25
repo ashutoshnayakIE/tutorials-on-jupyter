@@ -29,3 +29,12 @@ https://github.com/ashutoshnayakIE/RL/blob/master/ThompsonSampling.ipynb
 Hyper-parameter optimizatio in important when the optimization function is very complex (example complex Machine learning algorithms).
 This is a tutorial on hyper-parameter example with a toy problem using hyperOpt. It explains what are we doing when we say hyper-paramete optimization. We also show an example its implementation in python. After this tutorial, you should be able to implement bayesian optimization procedure along with understanding the theoretical background for it.<br>
 https://github.com/ashutoshnayakIE/hyper_parameter_optimization
+
+## Example of Image Analysis
+This is a short tutorial on how the images are converted to numbers (or how do we process images after considering image as a matrix of numbers). In this tutorial, we take an example of where an image is used to get the community mobility number during the COVID-9 time. The notebook goes through an example of how to do that (and while processing this information, we can also understand how images contain a wealth of information).
+https://github.com/ashutoshnayakIE/SD_policy_and_community_movement
+
+## Github-tutorial
+
+This a short tutorial on github explaining what is version control system, what is github, how to use github (with basic github commands to get started).
+https://github.com/ashutoshnayakIE/github-tutorial
