@@ -38,3 +38,8 @@ https://github.com/ashutoshnayakIE/SD_policy_and_community_movement
 
 This a short tutorial on github explaining what is version control system, what is github, how to use github (with basic github commands to get started).
 https://github.com/ashutoshnayakIE/github-tutorial
+
+## Expectation Maximization Algorithm
+
+This is a short tutorial on EM algorithm. I use Gaussian Mixture Model to show an example of EM algorithm and how it works. It also contains how the sklearn.mixture library can be used for GMMs. The tutorial provides a short code so as to check how to build EM algorithms. 
+https://github.com/ashutoshnayakIE/Gaussian-Mixture-Model
